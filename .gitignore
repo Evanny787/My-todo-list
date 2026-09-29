@@ -1,0 +1,4 @@
+node_modules
+dist
+todos.db
+__pycache__
